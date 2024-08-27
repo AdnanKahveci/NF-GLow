@@ -1,0 +1,11 @@
+{
+    "K": 16,
+    "L": 3,
+    "batchsize": 256,
+    "coupling": "affine",
+    "last_zeros": true,
+    "lr": 0.0001,
+    "n_bits_x": 8,
+    "size": 16,
+    "warmup_iter": 0
+}
